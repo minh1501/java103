@@ -1,0 +1,11 @@
+servlet/DetailServlet.class
+entity/Video.class
+dao/UserDAO.class
+entity/Share.class
+entity/User.class
+servlet/HomeServlet.class
+entity/Favorite.class
+dao/VideoDAO.class
+servlet/RegisterServlet.class
+servlet/LoginServlet.class
+utils/DBConnect.class
