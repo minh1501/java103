@@ -1,0 +1,15 @@
+entity/Report.class
+servlet/FavoriteStatusServlet.class
+servlet/NamedQueryServlet.class
+entity/User.class
+entity/Favorite.class
+utils/JpaUtils.class
+servlet/StoredProcedureServlet.class
+entity/Video.class
+dao/UserDAO.class
+dao/FavoriteDAO.class
+servlet/FavoriteByUserServlet.class
+servlet/ReportServlet.class
+dao/VideoDAO.class
+servlet/VideoByKeywordServlet.class
+servlet/UserByVideoServlet.class

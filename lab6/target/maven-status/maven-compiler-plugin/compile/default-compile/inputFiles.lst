@@ -1,0 +1,15 @@
+/Users/phungnhatminh/java/lab6/src/main/java/dao/FavoriteDAO.java
+/Users/phungnhatminh/java/lab6/src/main/java/dao/UserDAO.java
+/Users/phungnhatminh/java/lab6/src/main/java/dao/VideoDAO.java
+/Users/phungnhatminh/java/lab6/src/main/java/entity/Favorite.java
+/Users/phungnhatminh/java/lab6/src/main/java/entity/Report.java
+/Users/phungnhatminh/java/lab6/src/main/java/entity/User.java
+/Users/phungnhatminh/java/lab6/src/main/java/entity/Video.java
+/Users/phungnhatminh/java/lab6/src/main/java/servlet/FavoriteByUserServlet.java
+/Users/phungnhatminh/java/lab6/src/main/java/servlet/FavoriteStatusServlet.java
+/Users/phungnhatminh/java/lab6/src/main/java/servlet/NamedQueryServlet.java
+/Users/phungnhatminh/java/lab6/src/main/java/servlet/ReportServlet.java
+/Users/phungnhatminh/java/lab6/src/main/java/servlet/StoredProcedureServlet.java
+/Users/phungnhatminh/java/lab6/src/main/java/servlet/UserByVideoServlet.java
+/Users/phungnhatminh/java/lab6/src/main/java/servlet/VideoByKeywordServlet.java
+/Users/phungnhatminh/java/lab6/src/main/java/utils/JpaUtils.java
